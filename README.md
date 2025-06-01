@@ -2,11 +2,15 @@
 
 - 🎓 Computer Science Student | Cesar School
 - 📚 Always excited to learn new languages, tools, and frameworks.
+- 🎯 Interests: backend development, automation, APIs, databases.
+- 💡Also interest in the dynamics of business, finance, and economic strategy.
 
 <br>
 <div>
   <img heigh="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img heigh="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img heigh="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img heigh="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 <br>
 <div>
